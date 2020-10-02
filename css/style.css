@@ -1,0 +1,35 @@
+html, body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.events {
+    background-color: white;
+    display: flex;
+    min-height: 250px;
+    padding: 15px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.aboutus {
+    background-color: rgb(219, 68, 55);
+    color: white;
+    min-height: 250px;
+}
+
+.ourteam {
+    background-color: white;
+    color: #637282;
+    min-height: 250px;
+}
+
+.footer {
+    background-color: rgb(101, 101, 101);
+    color: white;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
