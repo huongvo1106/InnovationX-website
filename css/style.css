@@ -33,3 +33,33 @@ html, body {
     justify-content: center;
     align-items: center;
 }
+.card-deck {
+    width: 100%;
+}
+.card-img-top {
+    width: 350px;
+    height: 400px;
+
+}
+.mb-1 {
+    color: red;
+}
+
+.mb-2 {
+    color:blue;
+}
+
+.figure-caption {
+    font-size: 125%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-link {
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.figure-img {
+    height: 500px;
+    width: 800px;
+}
