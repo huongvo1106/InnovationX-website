@@ -1,5 +1,6 @@
-html, body {
-    font-family: 'Open Sans', sans-serif;
+html,
+body {
+    font-family: "Open Sans", sans-serif;
 }
 
 .events {
@@ -12,7 +13,7 @@ html, body {
     align-items: center;
 }
 
-.aboutus {
+.recent {
     background-color: rgb(219, 68, 55);
     color: white;
     min-height: 250px;
@@ -39,7 +40,6 @@ html, body {
 .card-img-top {
     width: 350px;
     height: 400px;
-
 }
 .mb-1 {
     color: red;
@@ -55,16 +55,13 @@ html, body {
 
 .figure-caption {
     font-size: 125%;
-   
 }
 
 .nav-link {
     font-size: 150%;
-    
 }
 
 .figure-img {
     height: 500px;
     width: 800px;
 }
-
